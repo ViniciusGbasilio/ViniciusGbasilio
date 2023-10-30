@@ -16,4 +16,4 @@
 
 "Desbravando o futuro, uma linha de código de cada vez. ✨🚀"
 
-![Snake animation](https://github.com/Mateus-Batista12/ViniciusGbasilio/blob/output/github-contribution-grid-snake.svg)
+
